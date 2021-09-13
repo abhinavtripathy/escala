@@ -1,1 +1,1 @@
-# CS497A-ind-study
+# CS497A Independent Study 
