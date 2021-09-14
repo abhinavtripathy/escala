@@ -1,4 +1,5 @@
 # CS497A Independent Study 
 
-Student: Abhinav Tripathy 
-Professor: Tim Richards 
+- Student: Abhinav Tripathy 
+- Professor: Tim Richards 
+- Topic: Exploring scalability through Docker and Building a stress testing tool
