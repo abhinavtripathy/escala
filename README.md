@@ -1,4 +1,6 @@
-# Escala - Independent Study of Scalability Through Docker & Containers
+# Escala 
+
+## An Independent Study of Scalability Through Docker & Containers
 
 > Escala *Spannish* for Scale
 
