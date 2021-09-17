@@ -1,6 +1,6 @@
 # Escala
 
-> Escala *French* Scale
+> Escala *French* for Scale
 
 - Student: Abhinav Tripathy 
 - Professor: Tim Richards 
