@@ -2,7 +2,7 @@
 
 ## An Independent Study of Scalability Through Docker & Containers
 
-> Escala *Spannish* for Scale
+> Escala: *Spannish* for Scale
 
 - Student: Abhinav Tripathy 
 - Professor: Tim Richards 
