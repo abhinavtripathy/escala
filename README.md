@@ -1,4 +1,4 @@
-# CS497A Independent Study 
+# Escala
 
 - Student: Abhinav Tripathy 
 - Professor: Tim Richards 
