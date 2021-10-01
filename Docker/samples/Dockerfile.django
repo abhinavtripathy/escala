@@ -1,0 +1,22 @@
+# Alpine based python image 
+FROM python:3.7-alpine 
+
+# Define the port to expose. Notice how this is above everything else as it is unlikely to change
+EXPOSE 8000
+
+# Set working directory 
+WORKDIR /app 
+
+# Copying requirements file
+COPY requirements.txt /app
+
+# Install dependencies 
+RUN pip3 install -r requirements.txt --no-cache-dir
+
+# Copy all the code files 
+COPY . /app 
+
+# Run the server 
+ENTRYPOINT ["python3"] 
+
+CMD ["manage.py", "runserver", "0.0.0.0:8000"]
